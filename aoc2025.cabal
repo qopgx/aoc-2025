@@ -69,7 +69,7 @@ executable aoc2025
     -- Other library packages from which modules are imported.
     build-depends:    base ^>=4.18.3.0
     -- -- Package `split`: Functions for splitting lists.
-    -- , split ^>=0.2.4
+     , split ^>=0.2.4
     -- -- Package `containers`: Brings maps, sets, trees, graphs, sequences.
     -- , containers ^>=0.7
     -- -- Package `vector`: Performant, fixed length arrays.
