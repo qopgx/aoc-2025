@@ -73,7 +73,7 @@ executable aoc2025
     -- -- Package `containers`: Brings maps, sets, trees, graphs, sequences.
     -- , containers ^>=0.7
     -- -- Package `vector`: Performant, fixed length arrays.
-    -- , vector ^>=0.13.1.0
+     , vector ^>=0.13.1.0
     -- -- Package `mtl`: Monad classes for transformers.
     -- , mtl ^>=2.3.1
 
